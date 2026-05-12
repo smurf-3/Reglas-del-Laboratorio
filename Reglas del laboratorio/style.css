@@ -1,0 +1,29 @@
+h1{
+
+font-style: italic;
+color: black;
+
+}
+
+
+
+body{
+
+background-color: cadetblue;
+
+}
+
+img{
+
+height: 200px;
+width: auto;
+
+}
+
+.contenedor{
+
+display: flex;
+gap: 30px;
+
+}
+
